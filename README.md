@@ -64,13 +64,6 @@ npm start
 
 ---
 
-## 🌐 Deployment
-
-- **Backend:** Deploy on [Render](https://render.com/), [Railway](https://railway.app/), or similar.
-- **Frontend:** Deploy on [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
-- Update the frontend API URL to your deployed backend.
-
----
 
 ## 📝 API Endpoints
 
@@ -102,4 +95,4 @@ MIT License
 
 ---
 
-> Made with ❤️ by [Your Name](https://github.com/your-username)
+> Made with ❤️ by Priyansh Singh(https://github.com/your-username)
