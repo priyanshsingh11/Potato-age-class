@@ -20,7 +20,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL_PATH = r"C:\Users\Priyansh Singh\Desktop\PROJECTS\Potato Age\model_v1.keras"
+MODEL_PATH = "Model/model_v1.keras"
 MODEL = tf.keras.models.load_model(MODEL_PATH)
 
 CLASS_NAMES = ["Early Blight", "Late Blight", "Healthy"]
