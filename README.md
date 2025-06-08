@@ -95,4 +95,4 @@ MIT License
 
 ---
 
-> Made with ❤️ by Priyansh Singh(https://github.com/your-username)
+> Made with ❤️ by Priyansh Singh (https://github.com/priyanshsingh11)
